@@ -1,3 +1,10 @@
+# extensions typically having to do with data sources
+*.csv
+project/data-sources
+*/data
+*.pt
+*ubyte
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
